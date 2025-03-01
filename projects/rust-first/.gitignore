@@ -1,0 +1,10 @@
+# Project-specific .gitignore
+
+# Ignore compiled files
+/target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore Cargo.lock (if you are building an open-source project)
+# Cargo.lock

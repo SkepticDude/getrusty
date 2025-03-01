@@ -1,0 +1,12 @@
+# Global .gitignore
+
+# Ignore IDE/editor specific files
+/.idea/
+/.vscode/
+/*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
