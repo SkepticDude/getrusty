@@ -6,6 +6,7 @@
 /*.swp
 *.sublime-project
 *.sublime-workspace
+/**/target/
 
 # Ignore OS generated files
 .DS_Store
